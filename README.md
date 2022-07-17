@@ -9,5 +9,6 @@ The main features that have currently been implemented are:
   <li>Admin users can create and manage models. The admin has been optimised (the basic registration is present in admin.py, but commented out).</li>
   <li>Librarians can renew reserved books</li>
 </ul>
-![local_library_model_uml](https://user-images.githubusercontent.com/55924282/179416680-1e5e3528-3df4-49aa-82f8-380f93d62ea2.png)
+
+![Local Library Model](https://raw.githubusercontent.com/mdn/django-locallibrary-tutorial/master/catalog/static/images/local_library_model_uml.png)
 
